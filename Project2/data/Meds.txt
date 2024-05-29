@@ -1,0 +1,21 @@
+Azimex 500:Azithromycinaa:Antibiotic:pneumonia,tonsillitis,skin allergy:3/2025:7:birzeit pharmaceutical company
+Azicare 500:Azithromycin:Antibiotic:pain,tonsillitis,skin allergy:3/2025:11:Pharmacare PLC
+Paramol:Paracetamol:Pain killer:fever,pain:3/2026:9:Beit Jala Pharmaceutical
+Acamol:Paracetamol:Pain killer:fever,pain,stomachache:4/2027:5:Teva Pharmaceutical
+Fenistil:Dimethindene Maleate:antihistamine:rash,itch,burn,bites:8/2024:5:GlaxoSmithKline PLC
+Rybrevant:amivantamab:Lung:Carcinoma:12/2021:12:Janssen-Cilag International N.V.
+Dupixent:dupilumab:antihistamine:Dermatitis,Atopic:9/2017:6:Sanofi Winthrop Industrie
+Plerixafor:Plerixafor:idk:Myeloma:12/2022:4:Accord Healthcare S.L.U.
+Emtric:emtricitabine:Antibiotic:HIV:12/2016:125:Mylan Pharmaceuticals Limited
+Flixabi:infliximab:idk:Arthritis,Psoriatic,Spondylitis:5/2016:45:Samsung Bioepis NL B.V.
+Evrysdi:Risdiplam:idk:Atrophy,Spinal:3/2021:67:Roche Registration GmbH
+Darunavir:darunavir:Antibiotic:HIV:1/2018:321:KRKA, d.d., Novo mesto
+Truvada:emtricitabine:Antibiotic:HIV:2/2005:83:Gilead Sciences Ireland UC
+Stribild:elvitegravir:Antibiotic:HIV:5/2013:65:Gilead Sciences Ireland UC
+Bemrist:indacaterol:Inhaler:Asthma:5/2020:321:Novartis Europharm Limited
+Atectura:indacaterol acetate:Inhaler:Asthma:5/2020:621:Novartis Europharm Limited
+DuoPlavin:clopidogrel:idk:Acute-Coronary:3/2010:365:Sanofi Winthrop Industrie
+Karvezide:irbesartan:idk:Hypertension:10/1998:32:Sanofi Winthrop Industrie
+Segluromet:ertugliflozin:idk:Diabetes-2:3/2018:532:Merck Sharp & Dohme B.V.
+Lyxumia:lixisenatide:idk:Diabetes-2:1/2013:398:Sanofi Winthrop Industrie
+Veklury:remdesivir:Antibiotic:Coronavirus:7/2020:862:Gilead Sciences Ireland UC

@@ -1,0 +1,5 @@
+Morocco,MAR,2,1,0,3
+Belgium,BEL,2,2,1,0
+Croatia,COR,1,2,1,2
+Palestine,pal,1,2,1,4
+Iraq,IRA,1,1,1,1

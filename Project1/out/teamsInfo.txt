@@ -1,0 +1,5 @@
+1. Team name: Belgium, Team Code: BEL, 2 Wins, 2 Draws, 1 Losses, Goals difference: 0, Points: 8
+2. Team name: Morocco, Team Code: MAR, 2 Wins, 1 Draws, 0 Losses, Goals difference: 3, Points: 7
+3. Team name: Palestine, Team Code: PAL, 1 Wins, 2 Draws, 1 Losses, Goals difference: 4, Points: 5
+4. Team name: Croatia, Team Code: COR, 1 Wins, 2 Draws, 1 Losses, Goals difference: 2, Points: 5
+5. Team name: Iraq, Team Code: IRA, 1 Wins, 1 Draws, 1 Losses, Goals difference: 1, Points: 4
