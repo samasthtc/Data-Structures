@@ -13,8 +13,8 @@ This repository contains two projects developed for the Data Structures and Algo
     - [Prerequisites](#prerequisites)
     - [Building and Running the Projects](#building-and-running-the-projects)
   - [Project Details](#project-details)
-    - [Project 1: Detailed Description](#project-1-detailed-description)
-    - [Project 2: Detailed Description](#project-2-detailed-description)
+    - [Project 1: Linked Lists \& Queues](#project-1-linked-lists--queues)
+    - [Project 2: Trees \& Hashing](#project-2-trees--hashing)
 
 ## Projects Overview
 
@@ -65,8 +65,9 @@ This project involves building a system to maintain information about medicines 
 
 ### Building and Running the Projects
 
-1. Navigate to  either one of `Project1` or `Project2` directories.
+1. Navigate to either one of `Project1` or `Project2` directories.
 2. Compile the project using the C compiler:
+
    ```sh
    make
    ```
@@ -78,14 +79,14 @@ This project involves building a system to maintain information about medicines 
 
 ## Project Details
 
-### Project 1: Detailed Description
+### Project 1: Linked Lists & Queues
 
 The World Cup Teams Management System involves two phases:
 
 - **Phase One:** Manage team information using a linked list. Calculate and sort points, and provide functionality to add, modify, delete, and print team information.
 - **Phase Two:** Manage matches and players. Store player information in linked lists and queues, handle substitutions, and manage red cards.
 
-### Project 2: Detailed Description
+### Project 2: Trees & Hashing
 
 The Pharmacy Management System consists of:
 
